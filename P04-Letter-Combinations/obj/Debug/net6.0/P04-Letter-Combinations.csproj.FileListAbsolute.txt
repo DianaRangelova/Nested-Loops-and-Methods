@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\bin\Debug\net6.0\P04-Letter-Combinations.exe
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\bin\Debug\net6.0\P04-Letter-Combinations.deps.json
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\bin\Debug\net6.0\P04-Letter-Combinations.runtimeconfig.json
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\bin\Debug\net6.0\P04-Letter-Combinations.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\bin\Debug\net6.0\P04-Letter-Combinations.pdb
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.AssemblyInfo.cs
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\refint\P04-Letter-Combinations.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.pdb
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\P04-Letter-Combinations.genruntimeconfig.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P04-Letter-Combinations\obj\Debug\net6.0\ref\P04-Letter-Combinations.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\bin\Debug\net6.0\P08-Multiplication-Sign.exe
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\bin\Debug\net6.0\P08-Multiplication-Sign.deps.json
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\bin\Debug\net6.0\P08-Multiplication-Sign.runtimeconfig.json
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\bin\Debug\net6.0\P08-Multiplication-Sign.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\bin\Debug\net6.0\P08-Multiplication-Sign.pdb
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.AssemblyInfo.cs
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\refint\P08-Multiplication-Sign.dll
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.pdb
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\P08-Multiplication-Sign.genruntimeconfig.cache
+C:\Users\PC\source\repos\Nested-Loops-and-Methods\P08-Multiplication-Sign\obj\Debug\net6.0\ref\P08-Multiplication-Sign.dll

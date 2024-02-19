@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZWNKQigrRVhUvr0e+3XY6NBxiZW0SdVFz+E1hIyz64ri7UhuoHp1aMxoi4/JSkMpcetsTj19wRE1oR1k987yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Nested-Loops-and-Methods\\P07-Factorial-Division\\P07-Factorial-Division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
